@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NFLplayoffs/static/css/main.f2d9a698.css",
+    "main.js": "/NFLplayoffs/static/js/main.85e53dd2.js",
+    "static/js/787.42aae9f9.chunk.js": "/NFLplayoffs/static/js/787.42aae9f9.chunk.js",
+    "index.html": "/NFLplayoffs/index.html",
+    "main.f2d9a698.css.map": "/NFLplayoffs/static/css/main.f2d9a698.css.map",
+    "main.85e53dd2.js.map": "/NFLplayoffs/static/js/main.85e53dd2.js.map",
+    "787.42aae9f9.chunk.js.map": "/NFLplayoffs/static/js/787.42aae9f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2d9a698.css",
+    "static/js/main.85e53dd2.js"
+  ]
+}
